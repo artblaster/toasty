@@ -60,7 +60,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Pocket Llama",
         "meta_descr": "Welcome to Pocket Llama!",
         "header_custom": "",
         "footer_custom": "",
