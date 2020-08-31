@@ -2215,10 +2215,10 @@ section.lazy-placeholder:after {
 .cid-rSpVa98Yoq {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-rSpVa98Yoq .mbr-section-subtitle {
-  color: #767676;
+  color: #4392ff;
 }
 .cid-rSpVa98Yoq .media-row {
   display: -webkit-flex;
@@ -2250,9 +2250,15 @@ section.lazy-placeholder:after {
   font-size: 17px;
 }
 .cid-rSpVa98Yoq .team-item .item-caption {
-  background: #efefef;
+  background: #4392ff;
 }
 .cid-rSpVa98Yoq H2 {
+  color: #000080;
+}
+.cid-rSpVa98Yoq .item-role P {
+  color: #ffffff;
+}
+.cid-rSpVa98Yoq .item-name {
   color: #ffffff;
 }
 .cid-rSpUYqlJEe {
