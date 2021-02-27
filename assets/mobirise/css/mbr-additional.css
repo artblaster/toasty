@@ -101,7 +101,7 @@ body {
   background-color: #4392ff !important;
 }
 .bg-warning {
-  background-color: #67e218 !important;
+  background-color: #6e00ce !important;
 }
 .bg-danger {
   background-color: #ff3366 !important;
@@ -188,8 +188,8 @@ body {
 }
 .btn-warning,
 .btn-warning:active {
-  background-color: #67e218 !important;
-  border-color: #67e218 !important;
+  background-color: #6e00ce !important;
+  border-color: #6e00ce !important;
   color: #ffffff !important;
 }
 .btn-warning:hover,
@@ -197,14 +197,14 @@ body {
 .btn-warning.focus,
 .btn-warning.active {
   color: #ffffff !important;
-  background-color: #479d11 !important;
-  border-color: #479d11 !important;
+  background-color: #450082 !important;
+  border-color: #450082 !important;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #479d11 !important;
-  border-color: #479d11 !important;
+  background-color: #450082 !important;
+  border-color: #450082 !important;
 }
 .btn-danger,
 .btn-danger:active {
@@ -352,22 +352,22 @@ body {
 .btn-warning-outline,
 .btn-warning-outline:active {
   background: none;
-  border-color: #3d860e;
-  color: #3d860e;
+  border-color: #380068;
+  color: #380068;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
 .btn-warning-outline.focus,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #67e218;
-  border-color: #67e218;
+  background-color: #6e00ce;
+  border-color: #6e00ce;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #67e218 !important;
-  border-color: #67e218 !important;
+  background-color: #6e00ce !important;
+  border-color: #6e00ce !important;
 }
 .btn-danger-outline,
 .btn-danger-outline:active {
@@ -436,7 +436,7 @@ body {
   color: #4392ff !important;
 }
 .text-warning {
-  color: #67e218 !important;
+  color: #6e00ce !important;
 }
 .text-danger {
   color: #ff3366 !important;
@@ -465,7 +465,7 @@ a.text-info:focus {
 }
 a.text-warning:hover,
 a.text-warning:focus {
-  color: #3d860e !important;
+  color: #380068 !important;
 }
 a.text-danger:hover,
 a.text-danger:focus {
@@ -486,7 +486,7 @@ a.text-black:focus {
   background-color: #4392ff;
 }
 .alert-warning {
-  background-color: #67e218;
+  background-color: #6e00ce;
 }
 .alert-danger {
   background-color: #ff3366;
@@ -535,7 +535,7 @@ a:hover {
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
-  color: #defacc;
+  color: #d09bff;
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
@@ -1201,9 +1201,9 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
 }
 .cid-rVImUIbnXG {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/phantern-2.png");
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/tile-lines.png");
 }
 @media (min-width: 992px) {
   .cid-rVImUIbnXG .mbr-figure {
@@ -1220,9 +1220,35 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
+.cid-sq9rEMEad3 {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/2021-02-26-13-18-58-programming-discord.png");
+}
+.cid-sq9rEMEad3 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-sq9rEMEad3 .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sq9rEMEad3 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sq9rEMEad3 .mbr-text {
+    text-align: center;
+  }
+}
 .cid-rSkcmnwVmh {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-color: #000000;
 }
 .cid-rSkcmnwVmh .row-links {
@@ -1723,8 +1749,8 @@ section.lazy-placeholder:after {
   color: #4392ff !important;
 }
 .cid-rSkcmnwVmh {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-color: #000000;
 }
 .cid-rSkcmnwVmh .row-links {
@@ -2299,8 +2325,8 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rSpUYqlJEe {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-color: #000000;
 }
 .cid-rSpUYqlJEe .row-links {
