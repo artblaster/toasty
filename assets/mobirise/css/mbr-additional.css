@@ -1,9 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
-
-
-
-
-
 body {
   font-family: Rubik;
 }
@@ -1199,26 +1193,6 @@ section.lazy-placeholder:after {
   opacity: 0;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-}
-.cid-rVImUIbnXG {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/tile-lines.png");
-}
-@media (min-width: 992px) {
-  .cid-rVImUIbnXG .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rVImUIbnXG .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rVImUIbnXG .mbr-text {
-    text-align: center;
-  }
 }
 .cid-sq9rEMEad3 {
   padding-top: 120px;
