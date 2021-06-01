@@ -1194,6 +1194,28 @@ section.lazy-placeholder:after {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-sz72y4ngBQ {
+  background: #001a44;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #00688b, #001a44);
+}
+.cid-sz72y4ngBQ .image-block {
+  margin: auto;
+}
+.cid-sz72y4ngBQ figcaption {
+  position: relative;
+}
+.cid-sz72y4ngBQ figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sz72y4ngBQ .image-block {
+    width: 100% !important;
+  }
+}
 .cid-sq9rEMEad3 {
   padding-top: 120px;
   padding-bottom: 120px;
