@@ -57,7 +57,7 @@
     "uniqCompNum": 62,
     "versionPublish": "5.6.5",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "mbrsiteDomain": "xmi5byogq2",
     "google-analytics": "<style>\n\n</style>"
   },
